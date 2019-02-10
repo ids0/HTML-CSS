@@ -1,4 +1,4 @@
-.gitignore
-nodes.md
-Notes.txt
-README.md
+/.gitignore
+/nodes.md
+/Notes.txt
+/README.md
